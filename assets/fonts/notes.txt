@@ -1,0 +1,2 @@
+ WARN  expo-app-loading is deprecated in favor of expo-splash-screen: 
+ use SplashScreen.preventAutoHideAsync() and SplashScreen.hideAsync() instead. 
